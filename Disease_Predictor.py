@@ -1,6 +1,6 @@
 """
 This is a test model
-Used Logistic Regression on a small Dataset
+Used Logistic Regression on a self made dataset
 """
 
 import numpy as np
