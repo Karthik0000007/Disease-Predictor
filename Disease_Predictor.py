@@ -1,3 +1,8 @@
+"""
+This is a test model
+Used Logistic Regression on a small Dataset
+"""
+
 import numpy as np
 
 data = {
